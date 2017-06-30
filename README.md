@@ -30,6 +30,7 @@ Available languages
 * Spanish
 * Swedish
 * Turkish
+* Thai
 * Ukrainian
 
 Contributing
